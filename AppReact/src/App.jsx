@@ -1,10 +1,10 @@
-
 const App = () => {
     return (
-        <>
-            <P> lorem ipsum </P>
-        </>
+      <>
+        <p>lorem ipsum</p>
+      </>
     )
-}
-
-export default App;
+  }
+  
+  export default App;
+  
